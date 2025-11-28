@@ -1,0 +1,10 @@
+{"id": "FR_rz0gbpF", "cdate": 1696118400000, "mdate": 1708999620448, "content": {"title": "Bridged adversarial training", "abstract": ""}}
+{"id": "C0kuQYU7RJ", "cdate": 1693526400000, "mdate": 1695961943600, "content": {"title": "Fast sharpness-aware training for periodic time series classification and forecasting", "abstract": ""}}
+{"id": "3romVtF37lz", "cdate": 1682899200000, "mdate": 1683962241220, "content": {"title": "Generating Transferable Adversarial Examples for Speech Classification", "abstract": ""}}
+{"id": "tMYNYW0jug", "cdate": 1672531200000, "mdate": 1679965814812, "content": {"title": "Stability Analysis of Sharpness-Aware Minimization", "abstract": ""}}
+{"id": "iVWDsqVxjrM", "cdate": 1672531200000, "mdate": 1679965814813, "content": {"title": "GradDiv: Adversarial Robustness of Randomized Neural Networks via Gradient Diversity Regularization", "abstract": ""}}
+{"id": "dOYLPu3Wym", "cdate": 1672531200000, "mdate": 1679965814804, "content": {"title": "Exploring Diverse Feature Extractions for Adversarial Audio Detection", "abstract": ""}}
+{"id": "8StRQLPaRX", "cdate": 1672531200000, "mdate": 1679965814813, "content": {"title": "Exploring the Effect of Multi-step Ascent in Sharpness-Aware Minimization", "abstract": ""}}
+{"id": "0CjVjCZqir", "cdate": 1672531200000, "mdate": 1695961943614, "content": {"title": "Differentially Private Sharpness-Aware Training", "abstract": "Training deep learning models with differential privacy (DP) results in a degradation of performance. The training dynamics of models with DP show a significant difference from standard training, w..."}}
+{"id": "eUuWw7RdyE", "cdate": 1640995200000, "mdate": 1679965814812, "content": {"title": "Variational cycle-consistent imputation adversarial networks for general missing patterns", "abstract": ""}}
+{"id": "Lu1b56j637s", "cdate": 1640995200000, "mdate": 1679965814808, "content": {"title": "Comment on Transferability and Input Transformation with Additive Noise", "abstract": ""}}

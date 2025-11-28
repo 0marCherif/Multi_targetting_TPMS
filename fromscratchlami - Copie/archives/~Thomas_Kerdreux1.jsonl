@@ -1,0 +1,1 @@
+{"id": "rJNm43Wubr", "cdate": 1514764800000, "mdate": null, "content": {"title": "Frank-Wolfe with Subsampling Oracle", "abstract": "We analyze two novel randomized variants of the Frank-Wolfe (FW) or conditional gradient algorithm. While classical FW algorithms require solving a linear minimization problem over the domain at ea..."}}

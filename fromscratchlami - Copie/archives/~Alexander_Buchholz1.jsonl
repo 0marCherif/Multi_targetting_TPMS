@@ -1,0 +1,1 @@
+{"id": "ByZVls-uZH", "cdate": 1514764800000, "mdate": null, "content": {"title": "Quasi-Monte Carlo Variational Inference", "abstract": "Many machine learning problems involve Monte Carlo gradient estimators. As a prominent example, we focus on Monte Carlo variational inference (MCVI) in this paper. The performance of MCVI crucially..."}}
